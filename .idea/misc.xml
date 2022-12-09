@@ -4,10 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1239488731920619" />
+        <entry key="../../Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.35625" />
         <entry key="app/src/main/res/drawable/ic_back_arrow.xml" value="0.22" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_atart.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/app_bar.xml" value="0.22" />
-        <entry key="app/src/main/res/layout/toolbar.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/fragment_start.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.25" />
         <entry key="app/src/main/res/layout/toolbar_1_1.xml" value="0.25" />
         <entry key="app/src/main/res/menu/search_menu.xml" value="0.25" />
       </map>
